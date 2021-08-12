@@ -1,0 +1,167 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    max-width: 899px;
+  }
+
+  header{
+    border-bottom: thick;
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+    border-width: 3px;
+  }
+
+  #brand-h {
+    margin-bottom: 0;
+    margin-top: 0;
+    font-family: 'Lobster', cursive;
+  }
+  
+  #print{
+    margin-left: 660px;
+    font-family: 'Courier New', Courier, monospace;
+     padding-top: 5px;
+  }
+  #printicon{
+     padding-top: 18px;
+    float: right; 
+  }
+
+  #cake {
+    float: left;
+  }
+  
+  .text {
+    font-family: "Oswald";
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-bottom: 5px;
+    font-family: 'Lobster', cursive;
+  }
+  
+  .recipes {
+    text-indent: 2em;
+  }
+  
+  #title-details h1 {
+    font-size: 45px;
+  }
+  
+  #title-details {
+    margin-top: 50px;
+    margin-bottom: 25px;
+  }
+   
+  #article-print img, #article-print p {
+    display: inline-block;
+  }
+  
+  #header-left{
+    display: inline-block;
+  }
+  
+  #header-left img {
+    display: inline-block;
+  }
+  
+  
+  #header-left-slogan {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  
+  #header-left-text {
+    display: inline-block;
+    font-family: 'Patrick Hand', monospace;
+  }
+  
+  #header-right{
+    display: inline-block;
+    position: relative;
+    margin-left: 412px;
+  }
+  
+  #right ul {
+    display: inline;
+    list-style: none;
+  }
+
+  #header-right ul li {
+    display: inline;
+  }
+  
+  .column-list{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS211WkB1U3a9gkdsM2UrOHI4sMbU_70-B8Pw&usqp=CAU");
+    list-style: none;
+   }
+  
+  #left-list, #right-list {
+    list-style: none;
+    display: inline-block;
+  }
+  
+  #left-list {
+    margin-left: 55px;
+  }
+  
+  #right-list {
+    margin-left: 170;
+  }
+  
+  #cbox1, #cbox2, #cbox3, #cbox4, #cbox5, #cbox6, #cbox7, #cbox8, #cbox9, #cbox10, #cbox11, #cbox12 {
+    color: black;
+    text-decoration: line-through;
+  }
+  
+  input[type=checkbox]:checked + label {
+    color: black;
+    text-decoration: line-through;
+  }
+  
+  #text-footer {
+    margin-top: 25px;
+    border-top: thick;
+    border-top-style:solid;
+    border-top-color: gray;
+    border-width: 3px;
+  }
+  
+  #auther {
+    display: inline-block;
+    margin-right: 73px;
+  }
+  
+  #text-footer img {
+    display: inline-block;
+    margin-top: 25px;
+  }
+  
+  #button {
+    font-family: "Oswald";
+    background: pink;
+    color: black;
+    padding: 9px 36px;
+    display: inline-block;
+  }
+  
+  #ending {
+    margin-top: 35px;
+    margin-bottom: 30px;
+    border-top: thick;
+    border-top-style: solid;
+    border-top-color: gray;
+    border-width: 1px;
+    opacity: 0.5;
+  }
+  
+  #ending p {
+    margin-left: 280px;
+    
+  }
+  
+  #ending img {
+    margin-top: -18px;
+    margin-left: 397px;
+  }
