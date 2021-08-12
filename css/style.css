@@ -16,17 +16,35 @@ body {
   #brand-h {
     margin-bottom: 0;
     margin-top: 0;
-    font-family: 'Lobster', cursive;
+    font-family: 'MonteCarlo', cursive;
+
+
+    ;
   }
   
   #print{
-    margin-left: 660px;
+    /* margin-left: 660px;
     font-family: 'Courier New', Courier, monospace;
-     padding-top: 5px;
+     padding-top: 5px; */
+     float: right;
+        position: relative;
+        font-size: 10px;
+        bottom: 45px;
+        left: 22px;
+        font-family:'Titillium Web', sans-serif;
+        font-weight: bolder;
   }
+
   #printicon{
-     padding-top: 18px;
+     /* padding-top: 18px;
     float: right; 
+    left: 35px; */
+    float: right;
+       position: relative;
+       bottom: 40px;
+       right: 35px;
+       
+
   }
 
   #cake {
